@@ -1,5 +1,6 @@
 # Super Collapse JS
-<div> <https://github.com/KamilaMoura1/super-collapse/blob/master/src/img/print-screen.jpg></div>
+
+<div><img src="https://github.com/KamilaMoura1/super-collapse/blob/master/src/img/print-screen.jpg"></div>
 
 * [1. Introduction](#1-Introduction)
 * [2. Interface Access](#2-Interface-access)
@@ -10,7 +11,7 @@
 ## 1. Introduction
 Project made in Vanilla Javascript for study purposes, with the idea of recreating a classic game called [Super Collapse](https://en.wikipedia.org/wiki/Collapse!)
 
-![Giphy-app-desktop](https://media.giphy.com/media/8H6G1MF0MQpW0lNgMQ/giphy.gif)
+![Giphy-app-desktop]<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/8H6G1MF0MQpW0lNgMQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8H6G1MF0MQpW0lNgMQ">via GIPHY</a></p>
 
 ## 2. Interface Access
 The application which can be viewed in this [Link](https://super-collapse-game-eqgdweouy-kamilamoura1.vercel.app/).

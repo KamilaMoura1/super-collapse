@@ -124,7 +124,6 @@ function advanceState() {
     print(completed);
   } else {
     board[rows - 1][state] = floor(1 + random(1) * colors);
-    /*print(state + " " + board[rows - 1][state]);*/
     strokeWeight(2);
     stroke(255);
     drawRect(rows - 1, state, board[rows - 1][state]);
@@ -145,11 +144,9 @@ function advanceRow() {
 }
 
 function drawBoard() {
-  //TODO: Add number of rows until next level
   background(0);
   stroke(255);
-  strokeWeight(2);
-  // Feeder Row Divider
+  strokeWeight(2)
   line(0, (rows - 1) * blockSize, width, (rows - 1) * blockSize);
   strokeWeight(2);
   for (let i = 0; i < rows; i++) {
